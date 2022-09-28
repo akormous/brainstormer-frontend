@@ -44,7 +44,7 @@ export const theme: MantineThemeOverride = {
       "#320B13",
       "#1E080D",
       "#120609",
-      "#0B0406"
+      "#F00334"
     ],
     yellow: [
       "#F2F0D5",
